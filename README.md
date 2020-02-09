@@ -1,4 +1,4 @@
-# belajar
+# belajar Vue.js
 
 ## Project setup
 ```
